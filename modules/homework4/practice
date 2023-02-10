@@ -1,0 +1,8 @@
+console.log('hi');
+/**
+ * Q1: find if the user has provided only first name and last name
+ * userName1=1'John Gig'
+ * userName=1'John Gig Hiyti'
+ * userName=1'John'
+ * userName1='';
+ */
